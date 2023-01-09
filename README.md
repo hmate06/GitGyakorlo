@@ -15,3 +15,10 @@
 - git add . (összes állomány és mappa hozzáadása)
 ## 5. Állapot felvétel (commit készítése)
 - git commit -m "commit message"
+## 6. Git állapot és log lekérdezése
+- git status
+- git log
+## 7. Lokális változások feltöltése a távoli repóba
+- git push
+## 8. Távoli repó másolása (klónozása) a lokális gépre
+- git clone "távoli repó URL címe"
